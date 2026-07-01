@@ -1,6 +1,6 @@
 # Sistema de Autogestión de Marketing (SAM)
 
-SAM es un sistema integral para la gestión y automatización de envíos de correos electrónicos masivos, desarrollado como proyecto profesional por **Esteban Andrés Rojas Barra** durante su práctica 2025. Diseñado para instituciones y empresas que necesitan comunicarse efectivamente con sus clientes o miembros, SAM permite a cada usuario:
+SAM es un sistema integral para la gestión y automatización de envíos de correos electrónicos masivos, desarrollado como proyecto profesional por **Esteban Andrés Rojas Barra** durante mi práctica 2025. Diseñado para instituciones y empresas que necesitan comunicarse efectivamente con sus clientes o miembros, SAM permite a cada usuario:
 
 - 📁 Importar registros de contactos desde archivos Excel.
 - 🧩 Filtrar y seleccionar destinatarios para campañas.
